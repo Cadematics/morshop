@@ -212,3 +212,4 @@ This project is intended to be extended by you! We wanted to make possible to re
 - [Builder](https://www.builder.io) as a CMS for the blog articles or other content creation
 - [Klaviyo](https://www.klaviyo.com/) for any email or SMS marketing automation
 # morshop
+Wrok in progress
