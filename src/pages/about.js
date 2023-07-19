@@ -25,7 +25,7 @@ const AboutPage = (props) => {
       <div className={styles.root}>
         {/* Hero Container */}
         <Hero
-          maxWidth={'100px'}
+          maxWidth={'900px'}
           image={'/about.png'}
           title={`Sydney \n A British brand since 1975`}
         />
@@ -35,7 +35,7 @@ const AboutPage = (props) => {
             History
           </ThemeLink>
           <ThemeLink onClick={() => handleScroll(valuesRef)} to={'#values'}>
-            Values
+            Values Values
           </ThemeLink>
           <ThemeLink
             onClick={() => handleScroll(sustainabilityRef)}
