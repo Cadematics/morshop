@@ -27,7 +27,7 @@ const Header = (prop) => {
   const [search, setSearch] = useState('');
 
   const searchRef = createRef();
-  const bannerMessage = 'Free shipping from Morocco to all over the worldwide';
+  const bannerMessage = 'Free shipping from Morocco to  all over the worldwide';
   const searchSuggestions = [
     'zellige',
     'light fixtures',
